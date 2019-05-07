@@ -1,0 +1,30 @@
+{
+  "name": "react-native-select-options-dropdown",
+  "version": "1.0.0",
+  "description": "show dropdown items in select options component",
+  "main": "index.js",
+  "author": "hnrqsss",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colbymillerdev/react-native-progress-steps.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "select",
+    "options",
+    "dropdown"
+  ]
+}
