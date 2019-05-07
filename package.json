@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/colbymillerdev/react-native-progress-steps.git"
+    "url": "git+https://github.com/hnrqsss/react-native-select-options-dropdown.git"
   },
   "keywords": [
     "react-native",
@@ -26,5 +26,9 @@
     "select",
     "options",
     "dropdown"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/hnrqsss/react-native-select-options-dropdown/issues"
+  },
+  "homepage": "https://github.com/hnrqsss/react-native-select-options-dropdown#readme"
 }
